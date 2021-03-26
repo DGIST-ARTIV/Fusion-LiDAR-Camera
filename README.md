@@ -22,6 +22,18 @@ Paste it in /catking_ws/src/.
 
 You can change the hres and vres in launch file. 
 
+```
+<launch>
+    <node name="fusion_car_tracking" pkg="fusion_car_tracking" type="fusion_car_tracking" output="screen" respawn="true">
+        <param name="hres" value="0.07480" />
+        <param name="vres" value="0.101018" />
+        <param name="y_fudge" value="120" />
+        <param name="y_fudge2" value="-190" />
+	<param name="map" value="0"/>
+    </node>
+</launch>
+```
+
 ## Run 
 in catking_ws
 
