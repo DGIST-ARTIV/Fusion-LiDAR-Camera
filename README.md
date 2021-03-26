@@ -18,9 +18,11 @@ Paste it in /catking_ws/src/.
 
 ## Run 
 in catking_ws
+
 '''
 catkin_make -DCMAKE_BUILD_TYPE=Release
 source devel/setup.bash
 rosluanch fusion_car_tracking fusion.launch
 '''
+
 Before run the fusion code, please check the yolov3 and lidar tracking code.
