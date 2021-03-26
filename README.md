@@ -18,9 +18,7 @@ Paste it in /catking_ws/src/.
 
 ## Alignment
 
-<img src = "https://user-images.githubusercontent.com/42258047/112604286-4bcea700-8e59-11eb-976a-e8c7d83d2989.png" width="400px">
-<img src = "https://user-images.githubusercontent.com/42258047/112604280-4a9d7a00-8e59-11eb-9646-d51eba01009e.png" width="400px">
-<img src = "https://user-images.githubusercontent.com/42258047/112604283-4b361080-8e59-11eb-8ba0-ac3882bee252.png" width="400px">
+<img src = "https://user-images.githubusercontent.com/42258047/112604286-4bcea700-8e59-11eb-976a-e8c7d83d2989.png" width="400px"> <img src = "https://user-images.githubusercontent.com/42258047/112604280-4a9d7a00-8e59-11eb-9646-d51eba01009e.png" width="400px"> <img src = "https://user-images.githubusercontent.com/42258047/112604283-4b361080-8e59-11eb-8ba0-ac3882bee252.png" width="400px">
 
 You can change the hres and vres in launch file. 
 
