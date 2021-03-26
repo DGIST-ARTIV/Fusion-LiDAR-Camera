@@ -6,11 +6,11 @@ We used
 - logitech stream camera
 
 ## Preparation
-YOLOv3 and tracking : 
-LiDAR tracking :
+[YOLOv3 and tracking](https://github.com/DGIST-ARTIV/Lidar)
+[LiDAR tracking](https://github.com/DGIST-ARTIV/VISION/tree/master/%EA%B0%9D%EC%B2%B4)
 
 ## Fusion Result 
-![](file:///C:/Users/jinny/Desktop/%EB%9D%BC%EC%9D%B4%EB%8B%A4%EB%85%BC%EB%AC%B8/lidar-camera%20fusion.gif)
+![lidar-camera fusion](https://user-images.githubusercontent.com/42258047/112603687-b03d3680-8e58-11eb-8b0b-a8c307c6f01a.gif)
 
 ## Download the code
 There is release version of Fusion code.
@@ -19,10 +19,10 @@ Paste it in /catking_ws/src/.
 ## Run 
 in catking_ws
 
-'''
+```
 catkin_make -DCMAKE_BUILD_TYPE=Release
 source devel/setup.bash
 rosluanch fusion_car_tracking fusion.launch
-'''
+```
 
 Before run the fusion code, please check the yolov3 and lidar tracking code.
