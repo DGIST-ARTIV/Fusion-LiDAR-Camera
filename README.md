@@ -45,3 +45,19 @@ rosluanch fusion_car_tracking fusion.launch
 ```
 
 Before run the fusion code, please check the yolov3 and lidar tracking code.
+
+
+## Citation
+#### Estimation of Closest In-Path Vehicle (CIPV) by Low-Channel LiDAR and Camera Sensor Fusion for Autonomous Vehicle
+[PDF](https://arxiv.org/pdf/2103.13952.pdf)
+
+```
+@misc{bae2021estimation,
+      title={Estimation of Closest In-Path Vehicle (CIPV) by Low-Channel LiDAR and Camera Sensor Fusion for Autonomous Vehicle}, 
+      author={Hyunjin Bae and Gu Lee and Jaeseung Yang and Gwanjun Shin and Yongseob Lim and Gyeungho Choi},
+      year={2021},
+      eprint={2103.13952},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}
+```
