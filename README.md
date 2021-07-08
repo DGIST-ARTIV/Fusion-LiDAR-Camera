@@ -73,7 +73,6 @@ Official Tracking_msg viewer will be provided
 ```
 
 ```
-
 @Article{s21093124,
 AUTHOR = {Bae, Hyunjin and Lee, Gu and Yang, Jaeseung and Shin, Gwanjun and Choi, Gyeungho and Lim, Yongseob},
 TITLE = {Estimation of the Closest In-Path Vehicle by Low-Channel LiDAR and Camera Sensor Fusion for Autonomous Vehicles},
