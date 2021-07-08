@@ -6,9 +6,11 @@ We used
 - Logitech stream camera
 
 ## Preparation
-[LiDAR tracking](https://github.com/DGIST-ARTIV/Lidar)
+[LiDAR tracking](https://github.com/DGIST-ARTIV/Fusion-LiDAR-Camera/releases/tag/2.1.12)
 
 [YOLO v3 and tracking](https://github.com/DGIST-ARTIV/VISION/tree/master/%EA%B0%9D%EC%B2%B4)
+
+[Fusion](https://github.com/DGIST-ARTIV/Fusion-LiDAR-Camera/releases/tag/Fusion-V.2.0.9)
 
 ## Fusion Result 
 ![lidar-camera fusion](https://user-images.githubusercontent.com/42258047/112603687-b03d3680-8e58-11eb-8b0b-a8c307c6f01a.gif)
