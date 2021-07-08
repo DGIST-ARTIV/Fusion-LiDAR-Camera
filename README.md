@@ -57,7 +57,9 @@ Official Tracking_msg viewer will be provided
 
 ## Citation
 #### Estimation of Closest In-Path Vehicle (CIPV) by Low-Channel LiDAR and Camera Sensor Fusion for Autonomous Vehicle
-[PDF](https://arxiv.org/pdf/2103.13952.pdf)
+[arxiv PDF](https://arxiv.org/pdf/2103.13952.pdf)
+
+[MDPI PDF](https://www.mdpi.com/1424-8220/21/9/3124)
 
 ```
 @misc{bae2021estimation,
@@ -69,3 +71,20 @@ Official Tracking_msg viewer will be provided
       primaryClass={cs.RO}
 }
 ```
+
+```
+
+@Article{s21093124,
+AUTHOR = {Bae, Hyunjin and Lee, Gu and Yang, Jaeseung and Shin, Gwanjun and Choi, Gyeungho and Lim, Yongseob},
+TITLE = {Estimation of the Closest In-Path Vehicle by Low-Channel LiDAR and Camera Sensor Fusion for Autonomous Vehicles},
+JOURNAL = {Sensors},
+VOLUME = {21},
+YEAR = {2021},
+NUMBER = {9},
+ARTICLE-NUMBER = {3124},
+URL = {https://www.mdpi.com/1424-8220/21/9/3124},
+ISSN = {1424-8220},
+DOI = {10.3390/s21093124}
+}
+```
+
